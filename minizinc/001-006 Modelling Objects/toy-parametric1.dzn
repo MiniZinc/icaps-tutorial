@@ -1,0 +1,5 @@
+ROBOT = {A,B,C,D};
+available = [A: 1000, B: 400, C: 500, D: 150];
+cost =      [A:   13, B:  21, C:  17, D: 100];
+tph =       [A:    6, B:  10, C:   8, D: 40];
+budget = 10000;

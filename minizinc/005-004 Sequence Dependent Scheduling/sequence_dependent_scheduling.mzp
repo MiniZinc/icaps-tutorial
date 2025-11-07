@@ -1,0 +1,16 @@
+{
+    "openFiles": [
+        "single_channel.mzn",
+        "double_channel.mzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "double_channel.dzn",
+        "double_channel.mzn",
+        "single_channel.dzn",
+        "single_channel.mzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}

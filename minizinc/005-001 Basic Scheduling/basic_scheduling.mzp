@@ -1,0 +1,13 @@
+{
+    "openFiles": [
+        "basic_scheduling.mzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "basic_scheduling.mzn",
+        "basic_scheduling_1.dzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}

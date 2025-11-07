@@ -1,0 +1,8 @@
+Channel = {C1, C2};
+len = [24,32];
+Ship = { Tanacious, Seaworthy, Majestic, Dauntless, Joyful, Steadfast, Worthy};
+speed = [5,6,4,5,4,7,3];
+desired = [0,0,47,33,100,125,175];
+dirn = array1d(Ship, [West,East,West,East,East,West,East]);
+max_time = 400;
+leeway = 2;

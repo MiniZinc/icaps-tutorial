@@ -1,0 +1,17 @@
+{
+    "openFiles": [
+        "robot_pddl_improved.mzn",
+        "robot_pddl.mzn",
+        "robot_cp.mzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "robot_cp.mzn",
+        "robot_pddl.mzn",
+        "robot_pddl_improved.mzn",
+        "robot_pickup.dzn"
+    ],
+    "selectedBuiltinConfigId": "org.chuffed.chuffed",
+    "selectedBuiltinConfigVersion": "0.13.2",
+    "version": 106
+}

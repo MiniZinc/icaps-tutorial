@@ -1,0 +1,14 @@
+TASK = {A, B, C, D, E, F, G, H, I, J};
+
+duration = [10,10,20,15,10,25,25,20,20,10];
+
+pre = 
+  [| A, B | A, C
+   | A, D | A, E
+   | B, F | B, G
+   | F, J | G, J
+   | C, H | D, H 
+   | D, I | E, I 
+   | H, F | I, G |];
+
+MUTEX = {C, E, H, I};

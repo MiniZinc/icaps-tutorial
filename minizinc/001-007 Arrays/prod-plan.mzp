@@ -1,0 +1,15 @@
+{
+    "openFiles": [
+        "prod-plan.mzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "prod-plan-data.dzn",
+        "prod-plan-robots1.dzn",
+        "prod-plan-robots2.dzn",
+        "prod-plan.mzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}

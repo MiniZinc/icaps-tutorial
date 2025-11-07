@@ -1,0 +1,14 @@
+{
+    "openFiles": [
+        "toy-shop-parametric.mzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "toy-parametric1.dzn",
+        "toy-parametric2.dzn",
+        "toy-shop-parametric.mzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}

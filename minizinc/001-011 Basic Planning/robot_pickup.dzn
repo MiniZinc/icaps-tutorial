@@ -1,0 +1,7 @@
+Workstation = {W1,W2,W3,W4,W5,W6,W7,W8,W9};
+Packet = { blue, red, yellow, green };
+first = W5;
+coord = [0, 3, 7, 10, 16, 18, 21, 25, 28];  % coordinates of cities (to compute distance)
+
+pickup = [W6, W4, W8, W3];
+dropoff = [W2, W7, W6, W8];

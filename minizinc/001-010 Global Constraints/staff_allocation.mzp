@@ -1,0 +1,13 @@
+{
+    "openFiles": [
+        "staff_allocation.mzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "staff_allocation.dzn",
+        "staff_allocation.mzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}

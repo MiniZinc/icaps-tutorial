@@ -1,0 +1,5 @@
+ROBOT = {KITT, HAL, T2000, GORT, R2};
+available = [KITT:   3, HAL:    1, T2000:   9, GORT:   7, R2: 10];
+cost =      [KITT: 400, HAL: 1600, T2000: 300, GORT: 500, R2: 670];
+tph =       [KITT:   4, HAL:   40, T2000:   8, GORT:  12, R2: 5];
+budget = 10000;

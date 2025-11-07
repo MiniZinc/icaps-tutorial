@@ -1,0 +1,30 @@
+{
+    "openFiles": [
+        "models/schedule.mzn",
+        "models/schedule-disj.mzn",
+        "models/schedule-due.mzn",
+        "models/schedule-opt.mzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "data/examstudy-disj.dzn",
+        "data/examstudy-due.dzn",
+        "data/examstudy-opt.dzn",
+        "data/examstudy.dzn",
+        "data/soldiers-disj.dzn",
+        "data/soldiers-due.dzn",
+        "data/soldiers-opt.dzn",
+        "data/soldiers.dzn",
+        "models/schedule-disj.mzc",
+        "models/schedule-disj.mzn",
+        "models/schedule-due.mzc",
+        "models/schedule-due.mzn",
+        "models/schedule-opt.mzc",
+        "models/schedule-opt.mzn",
+        "models/schedule.mzc",
+        "models/schedule.mzn"
+    ],
+    "selectedBuiltinConfigId": "org.chuffed.chuffed",
+    "selectedBuiltinConfigVersion": "0.13.2",
+    "version": 106
+}

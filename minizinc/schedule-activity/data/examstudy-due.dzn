@@ -1,0 +1,6 @@
+TASK =     { BMATHS, AMATHS, ENGLISH, CHEM, PHYS };
+duration = [2,5,4,3,6];
+precedences = [(BMATHS,AMATHS),(CHEM,PHYS)];
+due      = [20,20,20,20,20];
+
+code = 421720713;
